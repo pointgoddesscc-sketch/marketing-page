@@ -1,8 +1,10 @@
-# Marketing Page
+# Marketing Page – Point Goddess CC
 
-Professional marketing page for **Point Goddess CC / PSE Management**.
+Professional static marketing page for **Point Goddess CC / PSE Management**.
 
-Ready for **Vercel** deployment.
+Ready for immediate **Vercel** deployment.
+
+---
 
 ## Clone into Working Copy
 
@@ -10,16 +12,38 @@ Ready for **Vercel** deployment.
 https://github.com/pointgoddesscc-sketch/marketing-page.git
 ```
 
-## Stack (recommended)
+---
 
-- Next.js or static HTML/CSS/JS
-- Deploy directly to Vercel from this repository
+## Deploy to Vercel (recommended)
 
-## Quick deploy to Vercel
+1. Go to [vercel.com](https://vercel.com) and sign in with GitHub
+2. Click **Add New Project**
+3. Import `pointgoddesscc-sketch/marketing-page`
+4. Leave settings as default (static site)
+5. Click **Deploy**
 
-1. Import this repository in Vercel
-2. Connect the `pointgoddesscc-sketch` GitHub account
-3. Deploy
+Your site will be live in under a minute.
+
+---
+
+## Local preview
+
+Open `index.html` in any browser, or use a simple static server:
+
+```bash
+npx serve .
+```
+
+---
+
+## What’s included
+
+- Clean dark professional homepage
+- Responsive layout
+- Cards for Workspace, Slack Bot, Stripe Dashboard
+- `vercel.json` for clean URLs
+
+---
 
 **Account:** pointgoddesscc@gmail.com  
 **GitHub:** pointgoddesscc-sketch
